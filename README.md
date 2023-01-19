@@ -36,3 +36,9 @@ The data here presented was created using a spreadsheets software and exported t
 | longitude | City coordinate: Longitude |
 |   lived   | Whether or not I lived in that city |
 |  visited  | Whether or not I visited in that city |
+
+### Video
+
+Credits to the lady that make this video that help me to learn:
+
+https://www.youtube.com/watch?v=FdqDgoG-SFM
