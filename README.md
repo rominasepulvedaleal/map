@@ -1,7 +1,7 @@
 
 # Map using Folium
 I decided to create a map with the cities that I have visited.
-I add color: purple is I have lived in that city or blue if I only have visited it.
+I added color: purple is I have lived in that city or blue if I only have visited it.
 
 ##  getting ready: set environment
 
